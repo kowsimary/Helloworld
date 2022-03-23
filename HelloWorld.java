@@ -4,5 +4,8 @@ class HelloWorld {
 	System.out.println("happy weekend");
 	    System.out.println("happy weekend");
 	    System.out.println("happy weekend");
+	    System.out.println("happy weekend");
+	    System.out.println("happy weekend");
+	    System.out.println("happy weekend");
     }
 }
